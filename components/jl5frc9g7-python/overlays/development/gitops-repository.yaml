@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jl5frc9g7-python-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/jl5frc9g7-python-gitops
